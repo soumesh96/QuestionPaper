@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "questions": "Is Dog an Animal ?",
+    "options": [
+      "True", "False"
+    ],
+    "correctAns": "True"
+  },
+  {
+    "id": 2,
+    "questions": "What does HTML stand for?",
+    "options": [
+      "Home Tool Markup Language", "Hyperlinks and text Markup Language", "Hyper Text Markup Language", "None"
+    ],
+    "correctAns": "Hyper Text Markup Language"
+  },
+  {
+    "id": 3,
+    "questions": "3 + 3 ?",
+    "options": [
+      "6", "2", "5", "7"
+    ],
+    "correctAns": "6"
+  },
+  {
+    "id": 4,
+    "questions": "3 - 3 ?",
+    "options": [
+      "6", "2", "5", "0"
+    ],
+    "correctAns": "0"
+  },
+  {
+    "id": 5,
+    "questions": "Is Jaguar a Cat ?",
+    "options": [
+      "True", "False"
+    ],
+    "correctAns": "True"
+  }
+]
